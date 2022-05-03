@@ -1,0 +1,10 @@
+
+1) Terminal
+2) GIT
+3) js
+4) Postman
+5) HTTP методы,коды ответов
+6) JSON
+7) XML
+8) DevTools
+9) Android Studio
