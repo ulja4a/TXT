@@ -1,0 +1,6 @@
+
+ fullName - Tkachenko Uliana Mihailovna
+ age - 38 
+ numberOfPets - 0
+ expectedSalary - 1000
+
