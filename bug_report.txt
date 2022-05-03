@@ -1,1 +1,9 @@
-
+Bug_id:
+Summary:
+Severity:
+Environtment:
+Preconditions:
+Steps to reproduce:
+Actual result:
+Expected result:
+Attachment:
